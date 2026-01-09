@@ -2,7 +2,8 @@
 
 Hello, we will walk you through the tutorial on how to contribute a project in
 github. In this tutorial you will learn:
- - how to create a fork
+ - create a fork
+ - create a branch
  - commit a change
  - create a pull request
  - merge a pull request
@@ -20,7 +21,7 @@ github. In this tutorial you will learn:
 3. After that you will be greated with a fork of the repository under you github account.  
   ![](./assets/fork-success.png)
 
-## Creating a branch
+## Creating a Branch
 
 1. Click the branch tag at the top beside button labeled main.  
   ![](./assets/branch-button.png)
@@ -40,3 +41,26 @@ github. In this tutorial you will learn:
 6. You then will be greeted with the project root again, but now the label main at the top
   will be changed to the name of the branch you just click. It will also highlighted in blue.
   ![](./assets/branch-change-confirm.png)
+
+## Creating Changes to the Repository
+
+### Adding a New File
+
+1. Click on the Individual directory.  
+  ![](./assets/individual-goto-directory.png)
+
+2. Click on the Add file dropdown. Then click on Create new file option.
+  ![](./assets/individual-create-newfile.png)
+
+3.
+  1. Put your github account's username as the file's name.
+  2. Fill the file with the following information
+    > Name:  
+    > Email:  
+    > Class:  
+    > Github Account:  
+  3. Click on the commit changes button
+  ![](./assets/individual-newfile-done.png)
+
+4. Add a commit message. Make sure it has a meaningful message. Then click on the commit changes button to confirm.
+  ![](./assets/individual-commit.png)
